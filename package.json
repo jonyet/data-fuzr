@@ -1,0 +1,23 @@
+{
+  "name": "data-fuzr",
+  "version": "1.0.0",
+  "description": "background app to obscure user web activity with bad data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonyet/data-fuzr.git"
+  },
+  "author": "jonyet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonyet/data-fuzr/issues"
+  },
+  "homepage": "https://github.com/jonyet/data-fuzr#readme",
+  "dependencies": {
+    "hyperquext": "^0.2.12",
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}
