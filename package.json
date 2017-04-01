@@ -2,10 +2,10 @@
   "name": "data-fuzr",
   "version": "1.0.0",
   "description": "background app to obscure user web activity with bad data",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "test",
-    "start": "babel-node index.js --presets es2015,stage-2"
+    "start": "babel-node app.js --presets es2015,stage-2"
   },
   "repository": {
     "type": "git",
